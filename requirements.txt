@@ -1,4 +1,7 @@
-praat-parselmouth
 pandas
+streamlit
 numpy
+scipy
 plotly
+pyarrow
+dask
